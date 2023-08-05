@@ -2,7 +2,7 @@
 
 ### Ordering System
 
-- Using Vb.net and C#
+- Create in Vb.net and C#
 
 
 ![preview img](/preview.JPG)
